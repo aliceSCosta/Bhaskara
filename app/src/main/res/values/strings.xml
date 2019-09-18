@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Bhaskara</string>
+    <string name="app_name">Bhaskara</string>ng>
+    <string name="a">a</string>
+    <string name="b">b</string>
+    <string name="c">c</string>
+    <string name="mat">Matematica</string>
+    <string name="x1">x1</string>
+    <string name="x2">x2</string>
 </resources>
